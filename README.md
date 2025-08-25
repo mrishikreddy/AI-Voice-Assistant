@@ -1,4 +1,4 @@
-# Voice AI Assistant
+# AI Voice Assistant
 
 A simple voice-based AI assistant that listens to your questions, transcribes them, and provides answers using AI models. It can handle questions related to a specific person (Rishik Reddy) by retrieving information from a provided PDF file, or answer general questions using a generative AI model. The assistant uses speech-to-text (STT), retrieval-augmented generation (RAG), and text-to-speech (TTS) for a hands-free experience.
 
