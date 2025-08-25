@@ -142,7 +142,6 @@ class STT:
         res = self.model.transcribe(audio_data, fp16=False)
         return res.get("text", "").strip()
 
-
 class CLI_TTS:
     def __init__(self):
         self.platform = platform.system().lower()
